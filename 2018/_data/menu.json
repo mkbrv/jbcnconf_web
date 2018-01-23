@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "label": "Home",
+      "href": "/#JBCN"
+    },
+    {
+      "label": "C4P",
+      "href": "/callForPapers.html"
+    },
+    {
+      "label": "Sponsors",
+      "href": "/#Sponsors"
+    },
+    {
+      "label": "Travel",
+      "href": "/#Travel",
+      "items": [
+        {
+          "label": "To Barcelona",
+          "href": "/travel-to-java-barcelona.html"
+        }
+      ]
+    }
+  ]
+}
